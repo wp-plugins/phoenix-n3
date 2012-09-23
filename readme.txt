@@ -1,6 +1,6 @@
 === Plugin Name ===
 Contributors: enetres
-Tags: N3, Phoenix, N3 Media Solutions, Video, Embed, CMS
+Tags: Video, Embed, CMS, enetres, N3, Phoenix, N3 Media Solutions, 
 Requires at least: 3.0.1
 Tested up to: 3.4
 Stable tag: 1.0.0
@@ -29,6 +29,7 @@ Adiciona un botón en su editor que le permite embeber contenido de su biblioteca
 = Message "Invalid request parameters" =
 
 You must set up your username and apikey before start using the plugin.
+<br/>
 Usted debe configurar su apikey y username antes de usar el plugin.
 
 == Screenshots ==
