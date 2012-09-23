@@ -1,6 +1,8 @@
 === Plugin Name ===
 Contributors: enetres
 Tags: N3, Phoenix, N3 Media Solutions, Video, Embed, CMS
+Requires at least: 3.0.1
+Tested up to: 3.4
 Stable tag: 1.0.0
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
@@ -23,6 +25,11 @@ Adiciona un botón en su editor que le permite embeber contenido de su biblioteca
    Recuerde el establecer su username y apikey desde el menu 'Settings/Phoenix N3 Options' una vez que habilite su plugin.
 
 == Frequently Asked Questions ==
+
+= Message "Invalid request parameters" =
+
+You must set up your username and apikey before start using the plugin.
+Usted debe configurar su apikey y username antes de usar el plugin.
 
 == Screenshots ==
 
