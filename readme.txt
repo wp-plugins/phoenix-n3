@@ -8,20 +8,25 @@ License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
 Adds an editor button for embedding media from your n3 library.
+
 Adiciona un botón en su editor que le permite embeber contenido de su biblioteca n3
 
 == Description ==
 
 Adds an editor button for embedding media from your n3 library.
+
 Adiciona un botón en su editor que le permite embeber contenido de su biblioteca n3
 
 == Installation ==
 
-1. Upload n3.png,n3Plugin.php,themeSwitcher.js and WPscripts.js to the `/wp-content/plugins/PhoenixN3` directory
-   Copie los archivos n3.png,n3Plugin.php,themeSwitcher.js and WPscripts.js en su directorio `/wp-content/plugins/PhoenixN3`   
-2. Activate the plugin through the 'Plugins' menu in WordPress
-   Active el plugin desde la seccion de 'Plugins' de WordPress
-1. Remember to set up your username and apikey through 'Settings/Phoenix N3 Options' menu once your plugin has been enabled.
+1. Upload n3.png,n3Plugin.php,themeSwitcher.js and WPscripts.js to the `/wp-content/plugins/PhoenixN3` directory 
+
+   Copie los archivos n3.png,n3Plugin.php,themeSwitcher.js and WPscripts.js en su directorio `/wp-content/plugins/PhoenixN3`      
+2. Activate the plugin through the 'Plugins' menu in WordPress. 
+
+   Active el plugin desde la seccion de 'Plugins' de WordPress.
+1. Remember to set up your username and apikey through 'Settings/Phoenix N3 Options' menu once your plugin has been enabled. 
+
    Recuerde el establecer su username y apikey desde el menu 'Settings/Phoenix N3 Options' una vez que habilite su plugin.
 
 == Frequently Asked Questions ==
