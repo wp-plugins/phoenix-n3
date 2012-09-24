@@ -1,4 +1,4 @@
-=== Plugin Name ===
+ï»¿=== Plugin Name ===
 Contributors: enetres
 Tags: Video, Embed, CMS, enetres, N3, Phoenix, N3 Media Solutions, 
 Requires at least: 3.0.1
@@ -9,17 +9,17 @@ License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
 Adds an editor button for embedding media from your n3 library.
 
-Adiciona un botón en su editor que le permite embeber contenido de su biblioteca n3
+Adiciona un botÃ³n su editor que le permite embeber contenido de su biblioteca n3
 
 == Description ==
 
 Adds an editor button for embedding media from your n3 library.
 
-Adiciona un botón en su editor que le permite embeber contenido de su biblioteca n3
+Adiciona un botÃ³n su editor que le permite embeber contenido de su biblioteca n3
 
 == Installation ==
 
-1. Upload n3.png,n3Plugin.php,themeSwitcher.js and WPscripts.js to the `/wp-content/plugins/PhoenixN3` directory 
+1. Upload n3.png,n3Plugin.php,themeSwitcher.js and WPscripts.js to the `/wp-content/plugins/phoenix-n3` directory 
 
    Copie los archivos n3.png,n3Plugin.php,themeSwitcher.js and WPscripts.js en su directorio `/wp-content/plugins/PhoenixN3`      
 2. Activate the plugin through the 'Plugins' menu in WordPress. 
@@ -39,7 +39,7 @@ Usted debe configurar su apikey y username antes de usar el plugin.
 
 == Screenshots ==
 
-1. Username and apikey configuration / Configuración del apikey y username.
+1. Username and apikey configuration / ConfiguraciÃ³n del apikey y username.
 2. Phoenix N3 plugin's button / Boton del plugin Phoenix N3.
 3. Plugin's user interface / Interface de usuario del plugin.
 
