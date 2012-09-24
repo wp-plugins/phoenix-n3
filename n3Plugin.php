@@ -137,7 +137,7 @@ function register_n3_button($buttons) {
 						init : function(ed, url) {
 							ed.addButton('n3Button', {
 								title : 'N3Video',
-								image : '<?php echo plugins_url('/PhoenixN3/n3.png') ?>',
+								image : '<?php echo plugins_url('/phoenix-n3/n3.png') ?>',
 								onclick : function() {
 									editorBookMark =null;
 									try
@@ -206,7 +206,7 @@ function register_n3_button($buttons) {
 		
         <table class="form-table" style="width:400px; margin: 0; padding:0" >		
 		<tr valign="middle">
-			<td ><img src="<?php echo plugins_url('/PhoenixN3/n3.png') ?>" alt="Phoenix N3" style="display: inline;" /></td>
+			<td ><img src="<?php echo plugins_url('/phoenix-n3/n3.png') ?>" alt="Phoenix N3" style="display: inline;" /></td>
 			<td ><h2 style="display: inline" ><?php _e( 'Phoenix N3 Options', 'Phoenix N3 Options' ); ?></h2></td>			
 		</tr>
         </table>
