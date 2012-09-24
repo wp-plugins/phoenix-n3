@@ -21,7 +21,7 @@ Adiciona un botón su editor que le permite embeber contenido de su biblioteca n
 
 1. Upload n3.png,n3Plugin.php,themeSwitcher.js and WPscripts.js to the `/wp-content/plugins/phoenix-n3` directory 
 
-   Copie los archivos n3.png,n3Plugin.php,themeSwitcher.js and WPscripts.js en su directorio `/wp-content/plugins/PhoenixN3`      
+   Copie los archivos n3.png,n3Plugin.php,themeSwitcher.js and WPscripts.js en su directorio `/wp-content/plugins/phoenix-n3`      
 2. Activate the plugin through the 'Plugins' menu in WordPress. 
 
    Active el plugin desde la seccion de 'Plugins' de WordPress.
